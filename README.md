@@ -1,4 +1,3 @@
-✂️ Sistema de Gestão de Barbearia (Java MVC) – Projeto
 Sobre o Projeto
 
 Este projeto foi desenvolvido como parte da disciplina de Java - Programação Orientada a Objeto do curso de Análise e Desenvolvimento de Sistemas da UNIFIP, ministrada pelo professor Pablo Roberto.
